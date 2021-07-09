@@ -4,12 +4,11 @@ $email = $_POST["email"];
 $subject = $_POST["subject"];
 $message = $_POST["message"];
 
-
-$EmailTo = "000.lunchbox@gmail.com";
-$Title = "New Message Received";
+$EmailTo = "mhuryanov@gmail.com";
+$Title = "New Submission from your personal site";
 
 // prepare email body text
-$Fields .= "Name: ";
+$Fields = "Name: ";
 $Fields .= $name;
 $Fields .= "\n";
 
@@ -29,3 +28,4 @@ $Fields .= "\n";
 // send email
 $success = mail($EmailTo,  $Title,  $Fields, "From:".$email);
 
+echo var_dump($success);
