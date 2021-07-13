@@ -6,6 +6,6 @@ With over 7 years of experience in frontend and backend development, I have held
 
 https://behance.net/maximhn
 
-https://mhuryanov.github.io/mhuryanov
+https://mhuryanov.github.io/
 
 https://www.linkedin.com/in/maxim-huryanov-ba9499216/
