@@ -2,7 +2,7 @@
 
 I am Maxim Huryanov.
 
-With rich experience in full-stack development, I have held various positions as a freelancer, managing partner, and employee. I specialize in clean, modern, visually appealing frontend and backend development, but my core focuses are also usability and functionality. All my works are in step with modern technology. Also, I am working as a Blockchain developer as well. My fields of expertise:
+With rich experience in full-stack development, I have held various positions as managing partner, and employee. I specialize in clean, modern, visually appealing frontend and backend development, but my core focuses are also usability and functionality. All my works are in step with modern technology. Also, I am working as a Blockchain developer as well. My fields of expertise:
 
 * Frontend development - Angular 5+, React(Redux, Hook), Vue, HTML/CSS, Web3
 * Backend development - Flask, Django, Python, Node, Swagger, Typeorm, Ruby on Rails, Solidity
