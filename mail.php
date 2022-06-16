@@ -4,7 +4,7 @@ $email = $_POST["email"];
 $subject = $_POST["subject"];
 $message = $_POST["message"];
 
-$EmailTo = "mhuryanov@gmail.com";
+$EmailTo = "andyleong.up@gmail.com";
 $Title = "New Submission from your personal site";
 
 // prepare email body text
